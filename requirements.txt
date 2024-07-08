@@ -1,0 +1,7 @@
+requests
+streamlit
+langchain
+nltk
+PyPDF2
+openai
+chroma
